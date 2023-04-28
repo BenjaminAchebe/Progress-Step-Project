@@ -96,6 +96,6 @@ border-color: var(--line--border-file);
 
 .btn:disabled {
     background-color: var(--line-border-empty);
-    cursor: not-allowed;
+    cursor: pointer;
 }
 
